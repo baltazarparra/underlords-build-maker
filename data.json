@@ -1,0 +1,538 @@
+{
+    "hero": [
+      {
+        "alliances": [
+          "Primordial",
+          "Warlock"
+        ],
+        "name": "Enigma",
+        "cost": "5",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Enigma.png"
+      },
+      {
+        "alliances": [
+          "Deadeye",
+          "Inventor"
+        ],
+        "name": "Gyrocopter",
+        "cost": "5",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Gyrocopter.png"
+      },
+      {
+        "alliances": [
+          "Heartless",
+          "Mage"
+        ],
+        "name": "Lich",
+        "cost": "5",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Lich.png"
+      },
+      {
+        "alliances": [
+          "Scrappy",
+          "Inventor"
+        ],
+        "name": "Techies",
+        "cost": "5",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Techies.png"
+      },
+      {
+        "alliances": [
+          "Scaled",
+          "Hunter"
+        ],
+        "name": "Tidehunter",
+        "cost": "5",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Tidehunter.png"
+      },
+      {
+        "alliances": [
+          "Scrappy",
+          "Warlock"
+        ],
+        "name": "Alchemist",
+        "cost": "4",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Alchemist.png"
+      },
+      {
+        "alliances": [
+          "Brawny",
+          "Shaman"
+        ],
+        "name": "Disruptor",
+        "cost": "4",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Disruptor.png"
+      },
+      {
+        "alliances": [
+          "Demon",
+          "Warrior"
+        ],
+        "name": "Doom",
+        "cost": "4",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Doom.png"
+      },
+      {
+        "alliances": [
+          "Human",
+          "Dragon",
+          "Knight"
+        ],
+        "name": "Dragon Knight",
+        "cost": "4",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Dragon-Knight.png"
+      },
+      {
+        "alliances": [
+          "Human",
+          "Mage"
+        ],
+        "name": "Keeper Of The Light",
+        "cost": "4",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Keeper-Of-The-Light.png"
+      },
+      {
+        "alliances": [
+          "Human",
+          "Warrior"
+        ],
+        "name": "Kunkka",
+        "cost": "4",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Kunkka.png"
+      },
+      {
+        "alliances": [
+          "Savage",
+          "Druid"
+        ],
+        "name": "Lone Druid",
+        "cost": "4",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Lone-Druid.png"
+      },
+      {
+        "alliances": [
+          "Elusive",
+          "Hunter"
+        ],
+        "name": "Mirana",
+        "cost": "4",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Mirana.png"
+      },
+      {
+        "alliances": [
+          "Heartless",
+          "Warlock"
+        ],
+        "name": "Necrophos",
+        "cost": "4",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Necrophos.png"
+      },
+      {
+        "alliances": [
+          "Elusive",
+          "Assassin"
+        ],
+        "name": "Templar Assassin",
+        "cost": "4",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Templar-Assassin.png"
+      },
+      {
+        "alliances": [
+          "Troll",
+          "Warrior"
+        ],
+        "name": "Troll Warlord",
+        "cost": "4",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Troll-Warlord.png"
+      },
+      {
+        "alliances": [
+          "Heartless",
+          "Knight"
+        ],
+        "name": "Abaddon",
+        "cost": "3",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Abaddon.png"
+      },
+      {
+        "alliances": [
+          "Primordial",
+          "Shaman"
+        ],
+        "name": "Arc Warden",
+        "cost": "3",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Arc-Warden.png"
+      },
+      {
+        "alliances": [
+          "Human",
+          "Mage"
+        ],
+        "name": "Lina",
+        "cost": "3",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Lina.png"
+      },
+      {
+        "alliances": [
+          "Human",
+          "Savage",
+          "Warrior"
+        ],
+        "name": "Lycan",
+        "cost": "3",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Lycan.png"
+      },
+      {
+        "alliances": [
+          "Human",
+          "Knight"
+        ],
+        "name": "Omniknight",
+        "cost": "3",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Omniknight.png"
+      },
+      {
+        "alliances": [
+          "Elusive",
+          "Assassin"
+        ],
+        "name": "Phantom Assassin",
+        "cost": "3",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Phantom-Assassin.png"
+      },
+      {
+        "alliances": [
+          "Primordial",
+          "Mage"
+        ],
+        "name": "Razor",
+        "cost": "3",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Razor.png"
+      },
+      {
+        "alliances": [
+          "Savage",
+          "Assassin"
+        ],
+        "name": "Sand King",
+        "cost": "3",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Sand-King.png"
+      },
+      {
+        "alliances": [
+          "Demon",
+          "Warlock"
+        ],
+        "name": "Shadow Fiend",
+        "cost": "3",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Shadow-Fiend.png"
+      },
+      {
+        "alliances": [
+          "Scaled",
+          "Assassin"
+        ],
+        "name": "Slark",
+        "cost": "3",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Slark.png"
+      },
+      {
+        "alliances": [
+          "Deadeye",
+          "Hunter"
+        ],
+        "name": "Sniper",
+        "cost": "3",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Sniper.png"
+      },
+      {
+        "alliances": [
+          "Demon",
+          "Demon Hunter"
+        ],
+        "name": "Terrorblade",
+        "cost": "3",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Terrorblade.png"
+      },
+      {
+        "alliances": [
+          "Savage",
+          "Warlock"
+        ],
+        "name": "Venomancer",
+        "cost": "3",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Venomancer.png"
+      },
+      {
+        "alliances": [
+          "Dragon",
+          "Assassin"
+        ],
+        "name": "Viper",
+        "cost": "3",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Viper.png"
+      },
+      {
+        "alliances": [
+          "Elusive",
+          "Hunter"
+        ],
+        "name": "Wind Ranger",
+        "cost": "3",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Wind-Ranger.png"
+      },
+      {
+        "alliances": [
+          "Brawny",
+          "Hunter"
+        ],
+        "name": "Beastmaster",
+        "cost": "2",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Beastmaster.png"
+      },
+      {
+        "alliances": [
+          "Demon",
+          "Knight"
+        ],
+        "name": "Chaos Knight",
+        "cost": "2",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Chaos-Knight.png"
+      },
+      {
+        "alliances": [
+          "Human",
+          "Mage"
+        ],
+        "name": "Crystal Maiden",
+        "cost": "2",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Crystal-Maiden.png"
+      },
+      {
+        "alliances": [
+          "Brawny",
+          "Warrior"
+        ],
+        "name": "Juggernaut",
+        "cost": "2",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Juggernaut.png"
+      },
+      {
+        "alliances": [
+          "Elusive",
+          "Knight"
+        ],
+        "name": "Luna",
+        "cost": "2",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Luna.png"
+      },
+      {
+        "alliances": [
+          "Primordial",
+          "Assassin"
+        ],
+        "name": "Morphling",
+        "cost": "2",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Morphling.png"
+      },
+      {
+        "alliances": [
+          "Elusive",
+          "Druid"
+        ],
+        "name": "Natures Prophet",
+        "cost": "2",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Natures-Prophet.png"
+      },
+      {
+        "alliances": [
+          "Elusive",
+          "Dragon",
+          "Mage"
+        ],
+        "name": "Puck",
+        "cost": "2",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Puck.png"
+      },
+      {
+        "alliances": [
+          "Heartless",
+          "Warrior"
+        ],
+        "name": "Pudge",
+        "cost": "2",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Pudge.png"
+      },
+      {
+        "alliances": [
+          "Demon",
+          "Assassin"
+        ],
+        "name": "Queen Of Pain",
+        "cost": "2",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Queen-Of-Pain.png"
+      },
+      {
+        "alliances": [
+          "Scaled",
+          "Warrior"
+        ],
+        "name": "Slardar",
+        "cost": "2",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Slardar.png"
+      },
+      {
+        "alliances": [
+          "Scrappy",
+          "Inventor"
+        ],
+        "name": "Timbersaw",
+        "cost": "2",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Timbersaw.png"
+      },
+      {
+        "alliances": [
+          "Elusive",
+          "Druid"
+        ],
+        "name": "Treant Protector",
+        "cost": "2",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Treant-Protector.png"
+      },
+      {
+        "alliances": [
+          "Troll",
+          "Warlock"
+        ],
+        "name": "Witchdoctor",
+        "cost": "2",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Witchdoctor.png"
+      },
+      {
+        "alliances": [
+          "Elusive",
+          "Demon Hunter"
+        ],
+        "name": "Anti-Mage",
+        "cost": "1",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Anti-Mage.png"
+      },
+      {
+        "alliances": [
+          "Brawny",
+          "Warrior"
+        ],
+        "name": "Axe",
+        "cost": "1",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Axe.png"
+      },
+      {
+        "alliances": [
+          "Troll",
+          "Knight"
+        ],
+        "name": "Batrider",
+        "cost": "1",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Batrider.png"
+      },
+      {
+        "alliances": [
+          "Human",
+          "Assassin"
+        ],
+        "name": "Bloodseeker",
+        "cost": "1",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Bloodseeker.png"
+      },
+      {
+        "alliances": [
+          "Scrappy",
+          "Assassin"
+        ],
+        "name": "Bounty Hunter",
+        "cost": "1",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Bounty-Hunter.png"
+      },
+      {
+        "alliances": [
+          "Scrappy",
+          "Inventor"
+        ],
+        "name": "Clockwerk",
+        "cost": "1",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Clockwerk.png"
+      },
+      {
+        "alliances": [
+          "Heartless",
+          "Hunter"
+        ],
+        "name": "Drow Ranger",
+        "cost": "1",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Drow-Ranger.png"
+      },
+      {
+        "alliances": [
+          "Savage",
+          "Druid"
+        ],
+        "name": "Enchantress",
+        "cost": "1",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Enchantress.png"
+      },
+      {
+        "alliances": [
+          "Blood-Bound",
+          "Mage"
+        ],
+        "name": "Ogre Magi",
+        "cost": "1",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Ogre-Magi.png"
+      },
+      {
+        "alliances": [
+          "Troll",
+          "Shaman"
+        ],
+        "name": "Shadow Shaman",
+        "cost": "1",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Shadow-Shaman.png"
+      },
+      {
+        "alliances": [
+          "Scrappy",
+          "Inventor"
+        ],
+        "name": "Tinker",
+        "cost": "1",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Tinker.png"
+      },
+      {
+        "alliances": [
+          "Primordial",
+          "Warrior"
+        ],
+        "name": "Tiny",
+        "cost": "1",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Tiny.png"
+      },
+      {
+        "alliances": [
+          "Savage",
+          "Warrior"
+        ],
+        "name": "Tusk",
+        "cost": "1",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Tusk.png"
+      },
+      {
+        "alliances": [
+          "Blood-Bound",
+          "Warlock"
+        ],
+        "name": "Warlock",
+        "cost": "1",
+        "image": "https://img.rankedboost.com/wp-content/plugins/league/assets-dota-underlords/icons/Warlock.png"
+      }
+    ]
+  }
