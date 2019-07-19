@@ -1,0 +1,178 @@
+html {
+    background-image: url(https://underlords.com/public/images/home_main_bg.jpg);
+    color: white;
+    box-sizing: border-box;
+    font-size: 16px;
+    margin: .3em;
+}
+
+*, *:before, *:after {
+    font-family: sans-serif;
+    box-sizing: inherit;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+h1 {
+    font-size: 20px;
+    text-align: center;
+    color: tomato;
+    font-weight: bold;
+    text-shadow: 0 3px 6px rgba(255,0,0,0.16), 0 3px 6px rgba(255,0,0,0.23);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    height: 34vh;
+    padding: 4px 0;
+    overflow: overlay;
+    align-items: center;
+    justify-content: center;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    flex-basis: 60px;
+    margin: .4em;
+    border-radius: 2px;
+    text-align: center;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.26), 0 3px 6px rgba(0,0,0,0.33);
+    height: 80px;
+    background-color: rgba(255,255,255,.4);
+}
+
+article {
+    display: flex;
+    flex-wrap: wrap;
+    height: 40vh;
+    padding: 10px 0;
+    background-color: rgba(0,0,0,.8);
+    border-radius: 20px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    max-width: 98%;
+    margin: 0 auto;
+    overflow: overlay;
+}
+
+i {
+    position: absolute;
+    right: 30%;
+    font-size: 40px;
+    color: rgba(0,0,0,0.1);
+    z-index: 0;
+}
+
+div > img {
+    pointer-events: none;
+    height: 46px;
+    width: 46px;
+    margin: 4px;
+    border-radius: 2px;
+}
+
+.bonuses {
+    position: fixed;
+    background: rgba(0,0,0,0.8);
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    margin: 0 auto;
+    text-align: center;
+    padding: 1em;
+    font-size: 1.4em;
+    color: white;
+}
+
+button {
+    margin: -38px auto 0;
+    display: block;
+    border: 0;
+    background: black;
+    color: tomato;
+    padding: 4px 8px;
+    border-radius: 4px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+button:focus {
+    outline-color: black;
+}
+
+span p {
+    font-size: 14px;
+    line-height: 2;
+}
+
+h3 {
+    font-size: 10px;
+}
+
+p {
+    text-align: center;
+    font-size: 8px;
+    word-break: break-word;
+}
+
+b {
+    position: fixed;
+    bottom: 10px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 4px;
+    right: 10px;
+}
+
+b > img {
+    height: 24px;
+    margin: 2px;
+    pointer-events: all;
+}
+
+section span {
+    padding: 0;
+}
+
+.bonus {
+    height: 14px;
+    margin: 1px;
+}
+
+.toggle {
+    transform: translateY(92%);
+}
+
+@media (min-width: 768px) {
+    h1 {
+        font-size: 28px;
+    }
+    div {
+        flex-basis: 80px;
+        height: 90px;
+    }
+    div > img {
+        width: 60px;
+        height: 60px;
+    }
+    .bonus {
+        height: 18px;
+    }
+}
