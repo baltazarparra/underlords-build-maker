@@ -1,4 +1,4 @@
-var CACHE_NAME = 'static-v1';
+var CACHE_NAME = 'static-v2';
 
 self.addEventListener('install', function (event) {
   event.waitUntil(
@@ -7,7 +7,30 @@ self.addEventListener('install', function (event) {
         'index.html',
         'main.js',
         'style.css',
-        'img/*'
+        'img/Assassin.png',
+        'img/bg.jpg',
+        'img/BloodBound.png',
+        'img/Brawny.png',
+        'img/Deadeye.png',
+        'img/Demon.png',
+        'img/DemonHunter.png',
+        'img/Dragon.png',
+        'img/Druid.png',
+        'img/Elusive.png',
+        'img/Heartless.png',
+        'img/Human.png',
+        'img/Hunter.png',
+        'img/Inventor.png',
+        'img/Knight.png',
+        'img/Mage.png',
+        'img/Primordial.png',
+        'img/Savage.png',
+        'img/Scaled.png',
+        'img/Scrappy.png',
+        'img/Shaman.png',
+        'img/Troll.png',
+        'img/Warlock.png',
+        'img/Warrior.png',
       ]);
     })
   )
