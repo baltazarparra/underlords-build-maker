@@ -8,7 +8,7 @@ btn.addEventListener('click', function() {
   el.classList.toggle("toggle")
 })
 
-const heroes = fetch('/data.json')
+const heroes = fetch('https://raw.githubusercontent.com/baltazarparra/underlords-build-maker/master/data.json')
     .then(response => response.json())
     .then(response => response.hero)
     .then(response => {
